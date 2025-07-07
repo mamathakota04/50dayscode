@@ -1,0 +1,24 @@
+img
+{
+    display:block;
+    margin: auto;
+}
+body
+{
+    background-color: darkkhaki;
+}
+h1
+{
+font-family: Cambria;
+color: chartreuse;
+
+}h2
+{
+font-family:'Times New Roman', Times, serif;
+color: rgb(0, 21, 255);
+
+}
+table{
+    font-family: Impact;
+    color: crimson;
+}
